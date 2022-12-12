@@ -1,0 +1,15 @@
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\bin\Debug\net6.0\Desafio_01_estacinamento.exe
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\bin\Debug\net6.0\Desafio_01_estacinamento.deps.json
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\bin\Debug\net6.0\Desafio_01_estacinamento.runtimeconfig.json
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\bin\Debug\net6.0\Desafio_01_estacinamento.dll
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\bin\Debug\net6.0\Desafio_01_estacinamento.pdb
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.csproj.AssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.AssemblyInfo.cs
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.dll
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\refint\Desafio_01_estacinamento.dll
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.pdb
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\Desafio_01_estacinamento.genruntimeconfig.cache
+C:\Users\SAMSUNG\Desktop\curso-dio\Desafio_01_estacinamento\Desafio_01_estacinamento\obj\Debug\net6.0\ref\Desafio_01_estacinamento.dll
